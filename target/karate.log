@@ -1,0 +1,5 @@
+15:15:33.833 [chrome_1655709325705] WARN  com.intuit.karate.shell.Command - exit code was non-zero: 1 - [C:\Program Files\Google\Chrome\Application\chrome.exe, --remote-debugging-port=9222, --no-first-run, --user-data-dir=C:\Users\Trewin_Chen\eclipse-workspace\ParallelCucumberReporting\target\chrome_1655709325705, --disable-popup-blocking] working dir: target\chrome_1655709325705
+15:15:35.234 [pool-1-thread-1] INFO  com.intuit.karate - [print] You got new message 
+15:15:35.516 [chromedriver_1655709325706] WARN  com.intuit.karate.shell.Command - exit code was non-zero: 1 - [C:\Users\Trewin_Chen\Desktop\TrewinDocs\Software\chromedriver_win32_102.0.5005\chromedriver.exe, --port=9515, --user-data-dir=C:\Users\Trewin_Chen\eclipse-workspace\ParallelCucumberReporting\target\chromedriver_1655709325706] working dir: target\chromedriver_1655709325706
+15:15:36.418 [pool-2-thread-1] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 2 (1 remaining) classpath:features/UI01.feature
+15:15:36.511 [pool-2-thread-1] INFO  com.intuit.karate.Suite - <<pass>> feature 2 of 2 (0 remaining) classpath:features/UI02.feature
